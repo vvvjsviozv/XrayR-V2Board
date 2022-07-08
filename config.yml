@@ -7,8 +7,8 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board
     ApiConfig:
-      ApiHost: "YOUR_PANEL_URL" # 修改这里
-      ApiKey: "YOUR_TOKEN" # 修改这里
+      ApiHost: "https://vxh.ee" # 修改这里
+      ApiKey: "kYQMT5ceDTd43&B9!V!MS7McC5$e&%Ky8^jXtYp^$S3MQ%QNwTSu59$j9QL%bD#Xtm2ahZ@PQ#oR6tKmdgTpa^L&pHy5rK*4qyf3Q5Sm@b#xBSdCcRy$9fiSH7FAdSZ2" # 修改这里
       NodeID: 1
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan
       Timeout: 30 # Timeout for the api request
